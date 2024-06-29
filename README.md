@@ -23,7 +23,3 @@
 <a href="https://ui.aceternity.com/y" target="_blank" rel="noreferrer"> <img src="https://ui.aceternity.com/logo.png" alt="aeternity ui" width="40" height="40"/> </a> 
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" alt="shadcn" width="40" height="40"/> </a> 
 </p>
-
-
-
-</p>
