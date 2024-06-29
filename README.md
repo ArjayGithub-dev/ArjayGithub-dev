@@ -1,17 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Arjay</h1>
+<h1 align="center">Greetings! I'm Arjay 👋</h1>
 <h3 align="center">A passionate fullstack developer from Philippines. Learning and growing every day.</h3>
 
 - 👨‍💻 All of my projects are available at [https://arjaygithub-dev.github.io/arjay_portfolio/](https://arjaygithub-dev.github.io/arjay_portfolio/)
-
-- 📫 How to reach me **arjaymalaga990@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjay-malaga-b5a891234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjay-malaga-b5a891234/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rjy_ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rjy_ar/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/arjayfulldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/arjayfulldev" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
