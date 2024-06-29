@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 <h1 align="center">Greetings! I'm Arjay 👋</h1>
-<h3 align="center">A passionate fullstack developer from Philippines. Learning and growing every day.</h3>
+<h3 align="center">A passionate web developer from Philippines. Learning and growing every day.</h3>
 
 - 👨‍💻 All of my projects are available at [https://arjaygithub-dev.github.io/arjay_portfolio/](https://arjaygithub-dev.github.io/arjay_portfolio/)
 
